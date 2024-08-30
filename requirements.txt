@@ -1,0 +1,7 @@
+langchain
+python-dotenv
+validators==0.28.1
+youtube_transcript_api
+langchain_community
+unstructured
+pytube 
